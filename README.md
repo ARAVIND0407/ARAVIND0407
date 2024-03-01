@@ -8,7 +8,7 @@ I'm always eager to learn and collaborate, so feel free to connect!
 
 **Connect With Me:**
 
-* **LinkedIn:** [Aravind](www.linkedin.com/in/aravind-k-o552o7)
+* **LinkedIn:** (www.linkedin.com/in/aravind-k-o552o7)
   
 **Call to Action:**
 
