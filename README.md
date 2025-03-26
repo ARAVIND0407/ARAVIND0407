@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 
 ## 📈 GitHub Stats
 
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARAVIND0407&show_icons=true&theme=radical)
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=ARAVIND0407&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARAVIND0407&theme=radical" alt="GitHub Streak" /> </td> </tr> </table>
 
 ## 📫 How to reach me
 
