@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 - [Interests](#-interests)
 - [Currently Learning](#-currently-learning)
 - [Contribution Guidelines](#-contribution-guidelines)
-- [Footer](#-footer)
 
 ## 🔧 Technologies & Tools
 
@@ -20,7 +19,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📈 GitHub Stats
 
