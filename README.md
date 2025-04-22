@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 
 ## 📫 How to reach me
 
-- LinkedIn: [Aravind](https://www.linkedin.com/in/aravind0407)
-- Twitter: [@aravind0407](https://twitter.com/aravind0407)
+- LinkedIn: [Aravind]()
+- Twitter: [@aravind0407]()
 - Email: aravindkrishnan05520@gmail.com
 
 ## 💡 Interests
@@ -59,8 +59,6 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 If you want to contribute to any of my projects, feel free to fork the repository and submit a pull request. You can also open issues for any bugs or feature requests.
 
 ---
-
-## 📜 Footer
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just want to say hi 😊
 
